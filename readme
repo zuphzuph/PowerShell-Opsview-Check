@@ -1,0 +1,3 @@
+.ini entry for config file: 
+
+check_dotNET_4_7_2=cmd /c echo scripts\check_dotNET_4_7_2.ps1; exit($LastExitCode) | powershell.exe -command -
